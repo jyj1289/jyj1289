@@ -22,5 +22,5 @@
 
 <br>
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fomagran&show_icons=true&theme=cobalt)  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyj1289&show_icons=true&theme=cobalt)  
 </div>
