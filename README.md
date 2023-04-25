@@ -22,5 +22,5 @@
 
 <br>
 <div align="center">
-  ![jyj1289's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyj1289&show_icons=true&theme=onedark)(https://github.com/jyj1289/github-readme-stats)
+  [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyj1289)](https://github.com/jyj1289/github-readme-stats)
 </div>
