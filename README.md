@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8df3fc&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=yujin's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
+<div align="center">
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=8df3fc&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=yujin's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
+</div>
+
 
 <div align="center"><h3>SNS & e-mail</h3></div>
 <div align = center>
