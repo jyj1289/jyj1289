@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8df3fc&height=300&section=header&text=Welcome&fontAlign=50&fontAlignY=45&desc=yujin's%20Github&descSize=25&descAlign=70&descAlignY=61&fontSize=120&fontColor=ffffff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=778899&center=true&width=435&lines=Hello%2C+I%E2%80%99m+yujin.;I'm+back-end+developer)](https://git.io/typing-svg)
+
 
 
 <div align="center"><h3>SNS & e-mail</h3></div>
