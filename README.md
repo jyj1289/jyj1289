@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=778899&center=true&width=435&lines=Hello%2C+I%E2%80%99m+yujin.;I'm+back-end+developer)](https://git.io/typing-svg)
+<div align=center>
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=778899&center=true&width=435&lines=Hello%2C+I%E2%80%99m+yujin.;I'm+back-end+developer)](https://git.io/typing-svg)
 
 
 
